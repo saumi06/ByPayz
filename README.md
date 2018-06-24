@@ -1,1 +1,2 @@
-# ByPayz
+# Payeez
+Ionic ap
